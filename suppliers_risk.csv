@@ -1,0 +1,6 @@
+Supplier,Country,UnitCost,RiskScore,Reliability,Sustainability
+S1,China,45,80,65,50
+S2,USA,70,20,95,85
+S3,India,55,50,75,60
+S4,Germany,85,10,98,90
+S5,Brazil,60,40,80,70
